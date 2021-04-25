@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
-    "dotenv": "^8.2.0",
     "minechalk": "^1.0.0",
     "minecraft-protocol": "^1.25.0"
   }
