@@ -13,3 +13,6 @@ How to use
  "serverip": "SERVERIP HERE"
 } ```
 5. Run ``` npm start ``` to start console client
+
+
+![Picture of Summit Console Client](https://i.postimg.cc/xC61SvGB/y4RZlAG7.png "Summit Console Client")
