@@ -7,7 +7,7 @@ const cred = require('./credentials.json');
 
 
 var client = mc.createClient({
-  host: "fastgens.minehut.gg",   
+  host: cred.serverip,   
   port: 25565,        
   username: cred.username,
   password: cred.password,
