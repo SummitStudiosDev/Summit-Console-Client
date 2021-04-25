@@ -15,4 +15,4 @@ How to use
 5. Run ``` npm start ``` to start console client
 
 
-![Picture of Summit Console Client](https://i.postimg.cc/SND7t3zG/7GfMBl3F.png "Summit Console Client")
+![Picture of Summit Console Client](https://i.postimg.cc/xC61SvGB/y4RZlAG7.png "Summit Console Client")
